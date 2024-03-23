@@ -26,8 +26,8 @@ flex: 1;
 
 /* Flex Item */
 .item {
-    margin: 5px;
     
+    margin: 7px; 
     background: bisque;
     text-align: center;
     font-size: 1.5em;
